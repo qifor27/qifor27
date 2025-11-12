@@ -43,7 +43,7 @@ Saya juga antusias mempelajari **Red Hat Products**:
 - Portfolio: soon
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?qifor27=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=qifor27&show_icons=true&theme=radical)
 
 ---
 💡 *"Always learning, always growing"*
